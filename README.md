@@ -18,6 +18,14 @@ Checklist, introductions, finding a sponsor(s), finding locations for hosting...
 
 * * *
 
+## Help/Questions
+
+There is a `#meetups` channel on the official Vue.JS Discord server/chatroom:
+
+* https://vue-land.js.org
+
+* * *
+
 ## List of existing Meetups:
 
 * Africa
