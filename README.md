@@ -14,7 +14,21 @@ These are located in our other repo.
 
 ## Meetup Start Pack
 
-Checklist, introductions, finding a sponsor(s), finding locations for hosting...
+* Pre-arrival checklist
+* Introductions checklist
+* Closing checklist
+* Meetup topics for talks/workshops
+  * [Create a Google Drive spreadsheet with information like this](https://jsfiddle.net/0qdb6a5d)
+* Finding sponsorship
+* Finding locations for hosting
+  * Investigate co-working spaces in your area to see if any will let you use their location for free for a meetup. Bringing a bunch of coders to a co-working space once a month can be good for business. It's basically free advertising for them to their target demographic.
+  * Ask around about companies that use Vue.js and see if they would host the meetup. It is 
+* Things that can cost Money:
+  * Meetup.com Account (to create the meetup)
+  * Location Rental
+  * Food
+  * [Stickers](https://jsfiddle.net/zL4c12gw/4)
+  * T-Shirts
 
 * * *
 
