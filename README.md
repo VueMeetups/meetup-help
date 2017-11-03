@@ -1,4 +1,6 @@
-# Vue.js Meetup Start Pack
+<p align="center"><img src="https://raw.githubusercontent.com/VueMeetups/art-assets/master/vue-meetup/vue-meetup.png" alt="Vue.js Meetup logo" width="270"></p>
+
+# Vue.js Meetup
 
 Help for starting up and running a local Vue.js Meetup group. If you looking to run a Vue.js Conference, see our other repo [conference-help](https://github.com/VueMeetups/conference-help).
 
@@ -16,7 +18,7 @@ These are located in our other repo.
 * * *
 
 
-## Meetup Start Pack
+## Meetup Starter Pack
 
 
 ### Pre-arrival checklist
