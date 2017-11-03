@@ -109,164 +109,164 @@ There is a `#meetups` channel on the official Vue.JS Discord server/chatroom:
 
 <details>
   <summary>Asia</summary>
-    <ul>
-      <li>India
-        <ul>
-          <li>Bangalore - <a href="https://meetup.com/vue-bangalore">Vue Bangalore | VueBLR</a></li>
-        </ul>
-      </li>
-      <li>Malaysia
-        <ul>
-          <li>Singapore - <a href="https://meetup.com/Vue-JS-Singapore">Vue JS Singapore</a></li>
-        </ul>
-      </li>
-    </ul>
+  <ul>
+    <li>India
+      <ul>
+        <li>Bangalore - <a href="https://meetup.com/vue-bangalore">Vue Bangalore | VueBLR</a></li>
+      </ul>
+    </li>
+    <li>Malaysia
+      <ul>
+        <li>Singapore - <a href="https://meetup.com/Vue-JS-Singapore">Vue JS Singapore</a></li>
+      </ul>
+    </li>
+  </ul>
 </details>
 <details>
   <summary>Australia</summary>
-    <ul>
-      <li>New South Wales
-        <ul>
-          <li>Sydney - <a href="https://meetup.com/vue-sydney">Vue Sydney</a></li>
-        </ul>
-      </li>
-      <li>Victoria
-        <ul>
-          <li>Melbourne - <a href="https://meetup.com/Vuers-in-Melbourne">Vuers in Melbourne</a></li>
-        </ul>
-      </li>
-    </ul>
+  <ul>
+    <li>New South Wales
+      <ul>
+        <li>Sydney - <a href="https://meetup.com/vue-sydney">Vue Sydney</a></li>
+      </ul>
+    </li>
+    <li>Victoria
+      <ul>
+        <li>Melbourne - <a href="https://meetup.com/Vuers-in-Melbourne">Vuers in Melbourne</a></li>
+      </ul>
+    </li>
+  </ul>
 </details>
 <details>
   <summary>Europe</summary>
-    <ul>
-      <li>Austria
-        <ul>
-          <li>Vienna - <a href="https://meetup.com/Vue-js-Vienna">Vue.js Vienna</a></li>
-        </ul>
-      </li>
-      <li>Germany
-        <ul>
-          <li>Berlin - <a href="https://meetup.com/Vue-js-Berlin">Vue.js // Berlin</a></li>
-          <li>Hamburg - <a href="https://meetup.com/Hamburg-Vue-js-Meetup">Hamburg Vue.js Meetup</a></li>
-          <li>Nürnberg - <a href="https://meetup.com/vue-nfe">Vue.js // Nürnberg, Fürth, Erlangen</a></li>
-        </ul>
-      </li>
-      <li>Hungary
-        <ul>
-          <li>Budapest - <a href="https://meetup.com/Vue-js-Budapest">Vue.js Budapest</a></li>
-        </ul>
-      </li>
-      <li>Ireland
-        <ul>
-          <li>Dublin - <a href="https://meetup.com/vuejs-ireland">Vue.js Ireland</a></li>
-        </ul>
-      </li>
-      <li>Netherlands
-        <ul>
-          <li>Amsterdam - <a href="https://meetup.com/VueJSMeetupAmsterdam">VueJS Meetup Amsterdam</a></li>
-          <li>Amsterdam - <a href="https://meetup.com/VueJS-Amsterdam">VueJS Amsterdam</a></li>
-        </ul>
-      </li>
-      <li>Slovenia
-        <ul>
-          <li>Ljubljana - <a href="https://meetup.com/vue-slovenia">Vue.js Slovenia</a></li>
-        </ul>
-      </li>
-      <li>Sweden
-        <ul>
-          <li>Stockholm - <a href="https://meetup.com/Stockholm-Vue-js-Meetup">Stockholm Vue.js Meetup</a></li>
-        </ul>
-      </li>
-      <li>Switzerland
-        <ul>
-          <li>Zürich - <a href="https://meetup.com/Vue-Zurich">Vue.js Zurich</a></li>
-        </ul>
-      </li>
-      <li>United Kingdom
-        <ul>
-          <li>London - <a href="https://meetup.com/london-vue-user-group">London Vue User Group</a></li>
-        </ul>
-      </li>
-    </ul>
+  <ul>
+    <li>Austria
+      <ul>
+        <li>Vienna - <a href="https://meetup.com/Vue-js-Vienna">Vue.js Vienna</a></li>
+      </ul>
+    </li>
+    <li>Germany
+      <ul>
+        <li>Berlin - <a href="https://meetup.com/Vue-js-Berlin">Vue.js // Berlin</a></li>
+        <li>Hamburg - <a href="https://meetup.com/Hamburg-Vue-js-Meetup">Hamburg Vue.js Meetup</a></li>
+        <li>Nürnberg - <a href="https://meetup.com/vue-nfe">Vue.js // Nürnberg, Fürth, Erlangen</a></li>
+      </ul>
+    </li>
+    <li>Hungary
+      <ul>
+        <li>Budapest - <a href="https://meetup.com/Vue-js-Budapest">Vue.js Budapest</a></li>
+      </ul>
+    </li>
+    <li>Ireland
+      <ul>
+        <li>Dublin - <a href="https://meetup.com/vuejs-ireland">Vue.js Ireland</a></li>
+      </ul>
+    </li>
+    <li>Netherlands
+      <ul>
+        <li>Amsterdam - <a href="https://meetup.com/VueJSMeetupAmsterdam">VueJS Meetup Amsterdam</a></li>
+        <li>Amsterdam - <a href="https://meetup.com/VueJS-Amsterdam">VueJS Amsterdam</a></li>
+      </ul>
+    </li>
+    <li>Slovenia
+      <ul>
+        <li>Ljubljana - <a href="https://meetup.com/vue-slovenia">Vue.js Slovenia</a></li>
+      </ul>
+    </li>
+    <li>Sweden
+      <ul>
+        <li>Stockholm - <a href="https://meetup.com/Stockholm-Vue-js-Meetup">Stockholm Vue.js Meetup</a></li>
+      </ul>
+    </li>
+    <li>Switzerland
+      <ul>
+        <li>Zürich - <a href="https://meetup.com/Vue-Zurich">Vue.js Zurich</a></li>
+      </ul>
+    </li>
+    <li>United Kingdom
+      <ul>
+        <li>London - <a href="https://meetup.com/london-vue-user-group">London Vue User Group</a></li>
+      </ul>
+    </li>
+  </ul>
 </details>
 <details>
   <summary>North America</summary>
-    <ul>
-      <li>Mexico
-        <ul>
-          <li>Monterrey - <a href="https://meetup.com/Vue-js">Vue.js</a></li>
-        </ul>
-      </li>
-      <li>United States
-        <ul>
-          <li>California
-            <ul>
-              <li>San Diego - <a href="https://meetup.com/San-Diego-VueJS-Meetup">San Diego VueJS Meetup</a></li>
-              <li>San Francisco - <a href="https://meetup.com/vue-sf">Vue.sf</a></li>
-              <li>San Francisco - <a href="https://meetup.com/VuejsSF">San Francisco Vue.js Meetup</a></li>
-            </ul>
-          </li>
-          <li>Colorado
-            <ul>
-              <li>Denver - <a href="https://meetup.com/Denver-Vue-js-Meetup">Denver Vue.js Meetup</a></li>
-            </ul>
-          </li>
-          <li>Georgia
-            <ul>
-              <li>Atlanta - <a href="https://meetup.com/Atlanta-Vue-js-Meetup">Atlanta Vue.js Meetup</a></li>
-            </ul>
-          </li>
-          <li>Illinois
-            <ul>
-              <li>Chicago - <a href="https://www.meetup.com/Chicago-Vue-js">Chicago Vue.js</a></li>
-            </ul>
-          </li>
-          <li>Indiana
-            <ul>
-              <li>Indianapolis - <a href="https://meetup.com/vuejsindy">Vue.js Indy</a></li>
-            </ul>
-          </li>
-          <li>New York
-            <ul>
-              <li>New York City - <a href="https://meetup.com/vueJsNYC">VueNYC</a></li>
-            </ul>
-          </li>
-          <li>Oregon
-            <ul>
-              <li>Portland - <a href="https://meetup.com/Vue-js-Study-Group">Vue.js Study Group</a></li>
-            </ul>
-          </li>
-          <li>Texas
-            <ul>
-              <li>San Antonio - <a href="https://meetup.com/meetup-group-mltMsxBD">VueSA</a></li>
-            </ul>
-          </li>
-          <li>Utah
-            <ul>
-              <li>Salt Lake City - <a href="https://meetup.com/utah-vue">Utah Vue.js Meetup</a></li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
+  <ul>
+    <li>Mexico
+      <ul>
+        <li>Monterrey - <a href="https://meetup.com/Vue-js">Vue.js</a></li>
+      </ul>
+    </li>
+    <li>United States
+      <ul>
+        <li>California
+          <ul>
+            <li>San Diego - <a href="https://meetup.com/San-Diego-VueJS-Meetup">San Diego VueJS Meetup</a></li>
+            <li>San Francisco - <a href="https://meetup.com/vue-sf">Vue.sf</a></li>
+            <li>San Francisco - <a href="https://meetup.com/VuejsSF">San Francisco Vue.js Meetup</a></li>
+          </ul>
+        </li>
+        <li>Colorado
+          <ul>
+            <li>Denver - <a href="https://meetup.com/Denver-Vue-js-Meetup">Denver Vue.js Meetup</a></li>
+          </ul>
+        </li>
+        <li>Georgia
+          <ul>
+            <li>Atlanta - <a href="https://meetup.com/Atlanta-Vue-js-Meetup">Atlanta Vue.js Meetup</a></li>
+          </ul>
+        </li>
+        <li>Illinois
+          <ul>
+            <li>Chicago - <a href="https://www.meetup.com/Chicago-Vue-js">Chicago Vue.js</a></li>
+          </ul>
+        </li>
+        <li>Indiana
+          <ul>
+            <li>Indianapolis - <a href="https://meetup.com/vuejsindy">Vue.js Indy</a></li>
+          </ul>
+        </li>
+        <li>New York
+          <ul>
+            <li>New York City - <a href="https://meetup.com/vueJsNYC">VueNYC</a></li>
+          </ul>
+        </li>
+        <li>Oregon
+          <ul>
+            <li>Portland - <a href="https://meetup.com/Vue-js-Study-Group">Vue.js Study Group</a></li>
+          </ul>
+        </li>
+        <li>Texas
+          <ul>
+            <li>San Antonio - <a href="https://meetup.com/meetup-group-mltMsxBD">VueSA</a></li>
+          </ul>
+        </li>
+        <li>Utah
+          <ul>
+            <li>Salt Lake City - <a href="https://meetup.com/utah-vue">Utah Vue.js Meetup</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
 </details>
 <details>
   <summary>South America</summary>
-    <ul>
-      <li>Brazil
-        <ul>
-          <li>Belo Horizonte - <a href="https://meetup.com/Vuejs-at-BH">Vue.js @ Belo Horizonte</a></li>
-          <li>Florianópolis - <a href="https://meetup.com/floripa-vuejs">Vue.js Floripa</a></li>
-          <li>Rio de Janeiro - <a href="https://meetup.com/Vue-js-in-Rio">Vue.js in Rio</a></li>
-        </ul>
-      </li>
-      <li>Colombia
-        <ul>
-          <li>Bogotá - <a href="https://meetup.com/Bogota-Vue-js-Meetup">Bogotá Vue.js Meetup</a></li>
-        </ul>
-      </li>
-    </ul>
+  <ul>
+    <li>Brazil
+      <ul>
+        <li>Belo Horizonte - <a href="https://meetup.com/Vuejs-at-BH">Vue.js @ Belo Horizonte</a></li>
+        <li>Florianópolis - <a href="https://meetup.com/floripa-vuejs">Vue.js Floripa</a></li>
+        <li>Rio de Janeiro - <a href="https://meetup.com/Vue-js-in-Rio">Vue.js in Rio</a></li>
+      </ul>
+    </li>
+    <li>Colombia
+      <ul>
+        <li>Bogotá - <a href="https://meetup.com/Bogota-Vue-js-Meetup">Bogotá Vue.js Meetup</a></li>
+      </ul>
+    </li>
+  </ul>
 </details>
 
 
