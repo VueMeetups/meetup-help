@@ -248,6 +248,11 @@ There is a `#meetups` channel on the official Vue.JS Discord server/chatroom:
             <li>Salt Lake City - <a href="https://meetup.com/utah-vue">Utah Vue.js Meetup</a></li>
           </ul>
         </li>
+        <li>Washington D.C.
+          <ul>
+            <li><a href="https://meetup.com/Vue-DC">Vue DC</a></li>
+          </ul>
+        </li>
       </ul>
     </li>
   </ul>
