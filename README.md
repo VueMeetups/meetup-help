@@ -33,14 +33,14 @@ These are located in our other repo.
 ### Introductions checklist
 
 1. If there is food: *Everyone go get some free food*
-1. Do introductions around the room, (it's nice if this is on a slide to keep each person's intro short)
+1. Let attendees introduce themselves (it's nice if this info is on a slide to keep each person's intro short)
    * Name
    * Where you work, do they use Vue, and are they hiring
    * How long you've been using Vue
 1. Thank sponsors (if you have them), Ask for sponsors (if you need some)
 1. Announcements
    * Major News in the world of Vue
-   * *Next month's `<talk/workshop/meetup>` will be...*
+   * Announce next month's talk/workshop/meetup
    * Call for speakers
 1. Introduce the talk and let the speaker introduce themself
 
@@ -63,6 +63,7 @@ These are located in our other repo.
 1. Closing (depending on your situation):
    * *You're free to hang out and talk for a while, and of course, TAKE HOME SOME FOOD!*
    * *We actually need to be out by `<TIME>`, so some of us are going to go over to `<LOCATION>` for drinks, if you'd like to keep talking and hangout, you can come along.*
+
 
 ### Meetup topics for talks/workshops
 
