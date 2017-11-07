@@ -149,6 +149,7 @@ There is a `#meetups` channel on the official Vue.JS Discord server/chatroom:
       <ul>
         <li>Berlin - <a href="https://meetup.com/Vue-js-Berlin">Vue.js // Berlin</a></li>
         <li>Hamburg - <a href="https://meetup.com/Hamburg-Vue-js-Meetup">Hamburg Vue.js Meetup</a></li>
+        <li>München - <a href="https://meetup.com/Vue-js-Munich">Vue.js Munich</a></li>
         <li>Nürnberg - <a href="https://meetup.com/vue-nfe">Vue.js // Nürnberg, Fürth, Erlangen</a></li>
       </ul>
     </li>
