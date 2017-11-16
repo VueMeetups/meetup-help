@@ -134,7 +134,7 @@ There is a `#meetups` channel on the official Vue.JS Discord server/chatroom:
     <li>Victoria
       <ul>
         <li>Melbourne - <a href="https://meetup.com/Vuers-in-Melbourne">Vuers in Melbourne</a></li>
-        <li>Melbourne - <a href="https://www.meetup.com/vuejs-melbourne/">Melbourne Vue.js Meetup</a></li>
+        <li>Melbourne - <a href="https://meetup.com/vuejs-melbourne">Melbourne Vue.js Meetup</a></li>
       </ul>
     </li>
   </ul>
