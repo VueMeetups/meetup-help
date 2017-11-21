@@ -149,7 +149,7 @@ There is a `#meetups` channel on the official Vue.JS Discord server/chatroom:
     </li>
     <li>France
       <ul>
-        <li>Paris - <a href="https://www.meetup.com/Vuejs-Paris/">Vue.js Paris</a></li>
+        <li>Paris - <a href="https://meetup.com/Vuejs-Paris">Vue.js Paris</a></li>
       </ul>
     </li>
     <li>Germany
@@ -193,7 +193,7 @@ There is a `#meetups` channel on the official Vue.JS Discord server/chatroom:
     </li>
     <li>United Kingdom
       <ul>
-        <li>London - <a href="https://www.meetup.com/London-Vue-js-Meetup/">London VueJS Meetup</a></li>
+        <li>London - <a href="https://meetup.com/London-Vue-js-Meetup">London VueJS Meetup</a></li>
         <li>London - <a href="https://meetup.com/london-vue-user-group">London Vue User Group</a></li>
       </ul>
     </li>
