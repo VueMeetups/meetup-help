@@ -170,6 +170,11 @@ There is a `#meetups` channel on the official Vue.JS Discord server/chatroom:
         <li>Dublin - <a href="https://meetup.com/vuejs-ireland">Vue.js Ireland</a></li>
       </ul>
     </li>
+    <li>Norway
+      <ul>
+        <li>Oslo - <a href="https://meetup.com/VueJS-Oslo">VueJS Oslo</a></li>
+      </ul>
+    </li>
     <li>Netherlands
       <ul>
         <li>Amsterdam - <a href="https://meetup.com/VueJSMeetupAmsterdam">VueJS Meetup Amsterdam</a></li>
